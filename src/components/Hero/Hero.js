@@ -8,11 +8,12 @@ const Hero = (props) => (
 <Section row nopadding> 
   <LeftSection>
     <SectionTitle main center>
-      Welcome To <br/>
-      My Personal Portfolio
+     Layla Ventilari 
     </SectionTitle>
     <SectionText>
-    Web Developer, Blockchain enthusiast with interests in web3 development. Graduated in Letters-English and passionate about Linguistics, especially Natural Processing Language. Knowledge of data analysis and manipulation with Python, MySQL and MongoDB.
+    I have a degree in Literature-English, with a strong appreciation for Linguistics. In the course completion surveys, at the end of 2021, I met Deep Learning and fell in love with the area, especially Natural Language Processing.
+    This fascination resulted in the full dedication of knowledge of web development. 
+    
     </SectionText>
     <Button onClick = {() => window.location ='https://google.com'}>Learn More</Button>
   </LeftSection>

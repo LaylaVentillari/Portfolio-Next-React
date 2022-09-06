@@ -9,8 +9,8 @@ const Footer = () => {
    <FooterWrapper>
     <LinkList>
     <LinkColumn>
-    <LinkTitle>Call</LinkTitle>
-    <LinkItem href="tel:111-111-111">111-111-111</LinkItem>
+    <LinkTitle>Discord</LinkTitle>
+    <LinkItem href="tel:111-111-111">nite#4379</LinkItem>
     </LinkColumn>
     <LinkColumn>
     <LinkTitle>Email</LinkTitle>
@@ -19,7 +19,7 @@ const Footer = () => {
     </LinkList>
     <SocialIconsContainer>
       <CompanyContainer>
-        <Slogan> Innovating one project at a time</Slogan>      
+        <Slogan>Layla Ventilari</Slogan>      
       </CompanyContainer>
       <SocialContainer>
       <SocialIcons href="https://github.com/LaylaVentillari">

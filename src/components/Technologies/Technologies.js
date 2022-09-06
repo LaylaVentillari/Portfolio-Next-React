@@ -6,12 +6,12 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
-  <Section id ="tech">
+  <Section  id ="tech">
     <SectionDivider />
     <br />
-    <SectionTitle>Technologies</SectionTitle>
+    <SectionTitle main>Technologies</SectionTitle>
     <SectionText>
-    Web developer, Blockchain enthusiast with interests in web3 development.
+    Skills in Web Design, JavaScript, (Angular and ReactJS), TypeScript, data analysis with Python, as well as Java, NodeJS, GIT, Github.
     </SectionText>
     <List>
       <ListItem>
@@ -19,13 +19,13 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience eith <br/>
+            Experience with <br/>
             React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <FiFigma size="3rem"/>
+        <FiFigma size="2.3rem"/>
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>

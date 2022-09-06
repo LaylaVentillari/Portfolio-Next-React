@@ -1,13 +1,16 @@
 import React from 'react';
 
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
-import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
+import { Section, SectionDivider, SectionTitle, SectionText } from '../../styles/GlobalComponents';
 import { projects } from '../../constants/constants';
 
 const Projects = () => (
   <Section nopadding id="projects">
     <SectionDivider />
-    <SectionTitle main>Projects</SectionTitle>
+    <SectionTitle main>Challenge 21 days <br/> of code Rocketseat</SectionTitle>
+    <SectionText>
+    Project focused on web development, to maintain the daily practice of coding and networking with community developers. 
+    </SectionText>
   <GridContainer>
   {projects.map(({id , image, title, description, tags, source, visit}) => (
     <BlogCard key={id}>
