@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle main>Technologies</SectionTitle>
     <SectionText>
-    Skills in Web Design, JavaScript, (Angular and ReactJS), TypeScript, data analysis with Python, as well as Java, NodeJS, GIT, Github.
+    ReactJs, NextsJs, JavaScript, CSS, HTML and Public APIs integrations.
     </SectionText>
     <List>
       <ListItem>

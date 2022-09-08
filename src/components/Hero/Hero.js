@@ -15,7 +15,7 @@ const Hero = (props) => (
     This fascination resulted in the full dedication of knowledge of web development. 
     
     </SectionText>
-    <Button onClick = {() => window.location ='https://google.com'}>Learn More</Button>
+    <Button onClick = {() => window.location ='https://www.linkedin.com/in/layla-ventilari-135574145/'}>Message me</Button>
   </LeftSection>
 </Section>
 );
