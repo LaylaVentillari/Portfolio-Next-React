@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Day 1',
-    description: "Repository with All Chalenge Projects.",
+    description: "Repository with All Challenge Projects.",
       image: '/images/21days.gif',
       tags: ['Git', 'Github'],
     source: 'https://google.com',
