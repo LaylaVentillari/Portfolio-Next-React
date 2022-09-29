@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Day 1',
+    title: 'Day-1',
     description: "Repository with All Challenge Projects.",
       image: '/images/21days.gif',
       tags: ['Git', 'Github'],
@@ -9,7 +9,7 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Day 2',
+    title: 'Day-2',
     description:"Custom a Hello World.",
     image: '/images/hello.gif',
     tags: ['HTML', 'CSS'],
@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Day 3',
+    title: 'Day-3',
     description: "Animated button.",
       image: '/images/button.gif',
       tags: ['HTML', 'CSS', 'javaScript'],
@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Day 4',
+    title: 'Day-4',
     description: "Calculator.",
     image: '/images/calculator.gif',
     tags: ['React', 'CSS'],
@@ -36,7 +36,7 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Day 5',
+    title: 'Day-5',
     description: "Custom a 404 Error Page.",
       image: '/images/space.gif',
       tags: ['HTML', 'CSS'],
@@ -45,7 +45,7 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'Day 6',
+    title: 'Day-6',
     description: "Card with Glassmorphism Effect.",
       image: '/images/card.gif',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -54,7 +54,7 @@ export const projects = [
     id: 5,
   },
   {
-    title: 'Day 7',
+    title: 'Day-7',
     description: "Create a counter.",
       image: '/images/counter2.gif',
       tags: ['React', 'Node', 'CSS'],
@@ -63,7 +63,7 @@ export const projects = [
     id: 6,
   },
   {
-    title: 'Day 8',
+    title: 'Day-8',
     description: "Toggle that changes the light to dark.",
       image: '/images/dark-p.gif',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -72,7 +72,7 @@ export const projects = [
     id: 7,
   },
   {
-    title: 'Day 9',
+    title: 'Day-9',
     description: "Create a loading animation.",
       image: '/images/load.gif',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -81,7 +81,7 @@ export const projects = [
     id: 8,
   },
   {
-    title: 'Day 10',
+    title: 'Day-10',
     description: "Use the javaScript Particle.js lib.",
       image: '/images/partic.gif',
       tags: ['HTML', 'JavaScript'],
@@ -90,7 +90,7 @@ export const projects = [
     id: 9,
   },
   {
-    title: 'Day 11',
+    title: 'Day-11',
     description: "Create a login form layout.",
       image: '/images/login.gif',
       tags: [ 'React', 'CSS'],
@@ -99,7 +99,7 @@ export const projects = [
     id: 10,
   },
   {
-    title: 'Day 12',
+    title: 'Day-12',
     description: "Develop an image gallery.",
       image: '/images/gallerr.gif',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -108,7 +108,7 @@ export const projects = [
     id: 11,
   },
   {
-    title: 'Day 13',
+    title: 'Day-13',
     description: "Develop a responsive menu.",
       image: '/images/menu.gif',
       tags: ['React', 'Node', 'CSS'],
@@ -117,7 +117,7 @@ export const projects = [
     id: 12,
   },
   {
-    title: 'Day 14',
+    title: 'Day-14',
     description: "Create a quiz form.",
       image: '/images/quizz.gif',
       tags: ['React', 'Node', 'CSS'],
@@ -126,7 +126,7 @@ export const projects = [
     id: 13,
   },
   {
-    title: 'Day 15',
+    title: 'Day-15',
     description: "Develop a website that displays a showcase of fictitious e-commerce products, with names, prices, and images.",
       image: '/images/comercio.gif',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -135,7 +135,7 @@ export const projects = [
     id: 14,
   },
   {
-    title: 'Day 16',
+    title: 'Day-16',
     description: "Develop a website by creating a public API.",
       image: '/images/movie.gif',
       tags: ['React', 'Node', 'CSS'],
@@ -144,7 +144,7 @@ export const projects = [
     id: 15,
   },
   {
-    title: 'Day 17',
+    title: 'Day-17',
     description: " website that captures keyboard events and displays on the screen.",
       image: '/images/key.gif',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -153,7 +153,7 @@ export const projects = [
     id: 16,
   },
   {
-    title: 'Day 18',
+    title: 'Day-18',
     description: "Develop a random password generator.",
       image: '/images/pass.gif',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -162,7 +162,7 @@ export const projects = [
     id: 17,
   },
   {
-    title: 'Day 19',
+    title: 'Day-19',
     description: "Develop a website that generates random images using the unsplash API.",
       image: '/images/paisage.gif',
       tags: ['HTML', 'CSS'],
@@ -171,7 +171,7 @@ export const projects = [
     id: 18,
   },
   {
-    title: 'Day 20',
+    title: 'Day-20',
     description: "Emoji picker website, when selecting the emoji it is copied to the clipboard.",
       image: '/images/emo.gif',
       tags: ['HTML', 'CSS', 'JavaScript'],
@@ -180,7 +180,7 @@ export const projects = [
     id: 19,
   },
   {
-    title: 'Day 21',
+    title: 'Day-21',
     description: "Develop a page for your portfolio.",
       image: '/images/21.gif',
       tags: ['React', 'Node', 'CSS'],
