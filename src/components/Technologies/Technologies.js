@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle main>Technologies</SectionTitle>
     <SectionText>
-    ReactJs, NextsJs, JavaScript, CSS, HTML and Public APIs integrations.
+    ReactJs, NextsJs, JavaScript and Public APIs integrations.
     </SectionText>
     <List>
       <ListItem>

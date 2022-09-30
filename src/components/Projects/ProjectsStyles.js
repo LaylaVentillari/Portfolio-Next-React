@@ -19,6 +19,7 @@ row-gap: 3rem;
   flex-direction: column;
   padding: 2rem;
   padding-bottom: 0;
+
 }
 
 `
@@ -29,8 +30,11 @@ export const BlogCard = styled.div`
   width: 400px;
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
-  }
-`;
+
+    
+    }
+  
+`
 export const TitleContent = styled.div`
   text-align: center;
   z-index: 20;

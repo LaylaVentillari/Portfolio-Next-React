@@ -7,7 +7,7 @@ display: flex;
 flex-direction: column;
 align-items: center;
 margin: 6rem;
-}
+
 
 img {
 width: 250px;
@@ -17,4 +17,4 @@ box-shadow: 0 0 8px 4px rgba(0,0,0,.3);
 }
 
 
-  `;
+  `
